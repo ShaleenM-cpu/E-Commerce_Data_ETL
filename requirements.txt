@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+prefect==2.14.20
+python-dotenv
+xgboost
